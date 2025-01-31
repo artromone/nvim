@@ -124,7 +124,6 @@ return {
         "html",
         "javascript",
         "json",
-        "go",
         "lua",
         "markdown",
         "markdown_inline",
@@ -189,7 +188,6 @@ return {
     opts = {
       ensure_installed = {
         "stylua",
-        "gopls",
         "shellcheck",
         "shfmt",
         "flake8",
